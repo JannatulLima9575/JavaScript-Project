@@ -18,3 +18,11 @@ main {
     transition: 1s;
     position: absolute;
 }
+.nav {
+    text-align: center;
+    margin-top: 15px;
+}
+.nav button {
+    font-size: 25px;
+    padding: 5px;
+}
